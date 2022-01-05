@@ -54,12 +54,7 @@ h2{
     box-shadow: 10px 10px 40px gray;
     border-left: 10px solid;
 }
-#full-stack-experience{
-    border-left: 7px solid;
-    border-image: linear-gradient(blue, cyan);
-    border-image-slice: 1;
-}
-#web-developer-experience{
+.web-developer-experience{
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
